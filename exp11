@@ -7,4 +7,4 @@ height = input()
 print("How much do you weigh?")
 weight = input()
 
-print(f"What is {age} ")
+print ("What is your {} " .format(age))
